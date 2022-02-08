@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e33196ca-fddf-4a7f-8186-f2cc5c9b937e": {
+      "ProjectGuid": "e33196ca-fddf-4a7f-8186-f2cc5c9b937e",
+      "DisplayName": "SimpleWebBrowser",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
